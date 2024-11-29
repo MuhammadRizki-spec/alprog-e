@@ -1,6 +1,6 @@
  #aritmatika
 x = 24
-y = 90
+y = 80
 #penjumlahan
 hasil = x + y
 print ("hasil dari x = y")
